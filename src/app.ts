@@ -19,3 +19,5 @@ app.listen(PORT, () => {
 });
 
 app.use(cors());
+
+export default app;
